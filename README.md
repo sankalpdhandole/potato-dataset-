@@ -44,4 +44,4 @@ VGG-16 Model: Achieved an accuracy of 99.34% on the testing dataset.
 These results demonstrate the high effectiveness of both models in accurately detecting and classifying potato diseases, with the VGG-16 model slightly outperforming the custom CNN model.
 
 Conclusion
-The project has successfully developed and evaluated deep learning models for potato disease detection, demonstrating high accuracy and reliability. These models hold significant promise in assisting farmers with timely and accurate assessments of crop health, thereby facilitating proactive measures to mitigate economic losses and improve overall agricultural productivity.
+The project has successfully developed and evaluated deep learning models for potato disease detection, demonstrating high accuracy and reliability. These models hold significant promise in assisting farmers with timely and accurate assessments of crop health, thereby facilitating proactive measures to mitigate economic losses and improve overall agricultural productivity ..
